@@ -11,6 +11,6 @@ public class ProjectEuler   {
                         sum += i;
                     }                   
                 }
-                        System.out.println("The answer is"+  sum);
+                        System.out.println("The answer is"+ " "+sum);
     }    
 }
